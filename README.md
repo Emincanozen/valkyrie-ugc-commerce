@@ -3,9 +3,10 @@
 [![Next.js](https://img.shields.io/badge/Next.js-16.2.4-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.2.4-blue?style=for-the-badge&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Anthropic Claude](https://img.shields.io/badge/Anthropic-Claude_3.5_Sonnet-orange?style=for-the-badge&logo=anthropic)](https://www.anthropic.com/)
-[![AetherOS](https://img.shields.io/badge/Architecture-AetherOS-purple?style=for-the-badge)](https://github.com)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#)
+[![Anthropic Claude](https://img.shields.io/badge/Anthropic-Claude_Sonnet_4_%2F_Opus_4-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![AetherOS](https://img.shields.io/badge/Architecture-AetherOS-purple?style=for-the-badge)](https://github.com/Emincanozen/aether-agent-suite)
+[![CI](https://github.com/Emincanozen/valkyrie-ugc-commerce/actions/workflows/ci.yml/badge.svg)](https://github.com/Emincanozen/valkyrie-ugc-commerce/actions/workflows/ci.yml)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 > **Valkyrie** is an autonomous AI E-Commerce & Viral UGC Video Studio powered by Next.js 16, Anthropic Claude, and Arcads AI Avatars.
 >
